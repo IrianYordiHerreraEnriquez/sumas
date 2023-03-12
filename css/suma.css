@@ -20,7 +20,7 @@ border:10px solid gray;
 	width: 20%;
 	height: 20%;
 }
-body {background-image: url("1.jpg");
+body {background-image: url("/sumas/imagenes/1.jpg");
 height: 100vh;
 background-position: center;
 background-repeat: repeat; 
